@@ -3,7 +3,7 @@
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![cpp](https://img.shields.io/static/v1?logo=cpp&label=&message=cpp&color=36465D&logoColor=AAA&style=flat-square)
+![c++](https://img.shields.io/static/v1?logo=c++&label=&message=c++&color=36465D&logoColor=2600ff&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=csharp&color=36465D&logoColor=AAA&style=flat-square)
@@ -14,7 +14,7 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 ![bash](https://img.shields.io/static/v1?logo=bash&label=&message=bash&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
-![qt](https://img.shields.io/static/v1?logo=qt&label=&message=qt&color=111&logoColor=FF0000&style=flat-square)
+![qt](https://img.shields.io/static/v1?logo=qt&label=&message=qt&color=111&logoColor=00ff2b&style=flat-square)
 ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=111&logoColor=FF0000&style=flat-square)
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=FFE600&style=flat-square)
 
@@ -28,4 +28,4 @@
   <img align="left" alt="aksaktni" width="20px" src="https://simpleicons.vercel.app/telegram/000" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website Qt : [https://www.qt.io/)
+| &nbsp;&nbsp;&nbsp; Website Qt : https://www.qt.io/
