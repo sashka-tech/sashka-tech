@@ -25,7 +25,7 @@ _Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps
 
 ----
 
-<a href="https://moertel.tumblr.com/](https://web.telegram.org/k/#@aksaktni">
+<a href="https://web.telegram.org/k/#@aksaktni">
   <img align="left" alt="aksaktni" width="20px" src="https://simpleicons.vercel.app/telegram/000" />
 </a>
 
