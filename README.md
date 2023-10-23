@@ -29,5 +29,4 @@ _Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps
   <img align="left" alt="aksaktni" width="20px" src="https://simpleicons.vercel.app/telegram/000" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website Qt : https://www.qt.io/
-| &nbsp;&nbsp;&nbsp; LeetCode : (https://leetcode.com/user4388Rr/)https://leetcode.com/user4388Rr/
+| &nbsp;&nbsp;&nbsp; Website Qt : https://www.qt.io/  | &nbsp;&nbsp;&nbsp; LeetCode : https://leetcode.com/user4388Rr/
